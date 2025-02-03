@@ -1,1 +1,4 @@
 2025-02-03 20:10:14,913 - INFO - New file added for monitoring: example_file.txt
+2025-02-03 20:15:27,135 - WARNING - File modified: example_file.txt
+2025-02-03 20:15:27,135 - WARNING - Stored hash: 095b5421daef4e24
+2025-02-03 20:15:27,135 - WARNING - Current hash: c624c7bec2766ff9
